@@ -7,6 +7,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("测试同时推送到gitee和github");
+        System.out.println("测试同时推送到gitee和github？");
     }
 }
